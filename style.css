@@ -54,3 +54,7 @@ li{
 #PermisB_title{
 	display: none;
 }
+
+img{
+	border-radius : 30%;
+}
