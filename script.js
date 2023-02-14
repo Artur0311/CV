@@ -4,8 +4,8 @@ var Email =  document.getElementById("Email")
 var NumeroTitle = document.getElementById("NumeroTitle")
 var Numero = document.getElementById("Numero")
 
-var PermisB_title =document.getElementById("Permis B_title")
-var Permis =document.getElementById("Permis B")
+var PermisB_title =document.getElementById("PermisB_title")
+var Permis =document.getElementById("PermisB")
 
 
 EmailTitle.onmouseover = function(event){

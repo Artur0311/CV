@@ -4,6 +4,7 @@
 	padding: 0;
 	box-sizing: border-box;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: white;
 }
 body {
 	background-color: #121212;
@@ -45,16 +46,17 @@ li{
 	background-color: rgb(4, 96, 150);
 }
 
-#email{
+#Email{
 	display: none;
 }
 #Numero{
 	display: none;
 }
-#PermisB_title{
+#PermisB{
 	display: none;
 }
 
 img{
 	border-radius : 30%;
 }
+
