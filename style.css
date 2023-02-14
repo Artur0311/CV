@@ -60,3 +60,9 @@ img{
 	border-radius : 30%;
 }
 
+@media screen and (max-width: 510px) {
+	.full {
+		grid-template-columns: 1fr;
+		grid-template-rows: 2fr 4fr;
+	}
+}
